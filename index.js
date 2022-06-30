@@ -18,7 +18,7 @@ function add(a,b){
     console.log(a / b)
   }
   
-  add(1,2)
-  subtract(4,2)
-  multiply(3,6)
-  divide(9,3)
+  add(1,5)
+  subtract(8,2)
+  multiply(3,3)
+  divide(6,3)
